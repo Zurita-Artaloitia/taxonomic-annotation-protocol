@@ -1,2 +1,3 @@
 # taxonomic-annotation-protocol
-Bioinformatic workflow for Nanopore metabarcoding analysis
+
+This is the necessary data for the Protocols.io pipeline: Bioinformatic workflow for Nanopore metabarcoding analysis
